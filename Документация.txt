@@ -1,1 +1,1 @@
-В данном файле расположена проектная документация.
+There is project documentation in this file.
